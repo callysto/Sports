@@ -1,5 +1,6 @@
 numpy
 plotly
+cufflinks
 ipywidgets
 ipysheet
 RISE
