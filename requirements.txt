@@ -4,5 +4,5 @@ plotly
 cufflinks
 ipywidgets
 ipysheet
-statsapi
+MLB-StatsAPI
 RISE
