@@ -4,4 +4,5 @@ plotly
 cufflinks
 ipywidgets
 ipysheet
+statsapi
 RISE
